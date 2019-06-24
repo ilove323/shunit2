@@ -632,5 +632,5 @@ For compatibility with Zsh, there is one requirement that must be met -- the
    $ zsh -o shwordsplit -- some_script
    ```
 
-[log4sh]: https://github.com/kward/log4sh
-[shflags]: https://github.com/kward/shflags
+
+
